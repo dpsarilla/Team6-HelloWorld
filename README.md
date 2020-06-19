@@ -1,3 +1,3 @@
 # Team6-HelloWorld
 
-Durga Prasad Sarilla.
+1. Durga Prasad Sarilla
