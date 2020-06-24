@@ -1,3 +1,5 @@
 # Team6-HelloWorld
-1. Durga Prasad Sarilla
-2. Elijah Ingram
+Meghan Hunt
+Elijah Ingram
+Kelly Browning
+Durga Prasad Sarilla
