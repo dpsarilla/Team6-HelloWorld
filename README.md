@@ -1,5 +1,3 @@
 # Team6-HelloWorld
-Meghan Hunt
-Elijah Ingram
-Kelly Browning
-Durga Prasad Sarilla
+
+This is the new test.
